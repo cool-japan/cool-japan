@@ -12,7 +12,7 @@ We are rebuilding the entire scientific, media, AI, formal verification, and sys
 - **Total Rust SLoC**: ~16 million (as of March 2026)
 - **Passing tests**: 150,000+
 - **Projects**: 41+ production-grade libraries
-- **Stars**: Rapidly increasing (OxiMedia leading the charge)
+- **Stars**: Rapidly increasing
 - **All projects**: 100% `fail0` + `Clippy0` enforced
 
 ---
@@ -42,7 +42,7 @@ We are rebuilding the entire scientific, media, AI, formal verification, and sys
 
 - **Tech Blog** (official): [blog.cooljapan.tech](https://blog.cooljapan.tech)
 - **Medium** (release announcements): [kitasanio.medium.com](https://kitasanio.medium.com)
-- **LinkedIn**: [Tetsuya Kita](https://www.linkedin.com/in/tetsuya)
+- **LinkedIn**: [KitaSan](https://www.linkedin.com/in/tetsuya) -- LinkedIn Member since Feb. 29th, 2004
 - **Main Website**: [cooljapan.tech](https://cooljapan.tech)
 
 ---
@@ -55,7 +55,7 @@ We are rebuilding the entire scientific, media, AI, formal verification, and sys
 - Follow the blog for weekly release updates
 
 **The Rust sovereignty stack is here.**  
-No more C dependencies. No more Python for science. No more cloud lock-in.
+No more C dependencies (in default). No more Python for science. No more cloud lock-in.
 
 Built with ❤️ by COOLJAPAN OÜ / Estonia (Team KitaSan in Southeast Asia)
 
