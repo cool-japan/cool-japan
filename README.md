@@ -1,19 +1,19 @@
 ![Crates](https://img.shields.io/badge/crates-597-orange)
-![SLoC](https://img.shields.io/badge/SLoC-~16M-blue)
+![SLoC](https://img.shields.io/badge/SLoC-~21M-blue)
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
 
 # COOLJAPAN
 
 **One of the largest pure-Rust sovereignty stacks in history.**
 
-The official COOLJAPAN Pure Rust Ecosystem — 597 crates, ~16M SLoC, zero C/FFI (in default) · Memory-safe by design.
+The official COOLJAPAN Pure Rust Ecosystem — 597 crates, ~21M SLoC, zero C/FFI (in default) · Memory-safe by design.
 We are rebuilding the entire scientific, media, AI, semantic web, formal verification, and systems stack in pure Rust — so AI agents and critical software can run anywhere with full sovereignty.
 
 ---
 
 ### 📊 Ecosystem at a Glance (March 2026)
 - **Total crates**: 597 (and growing daily)
-- **Total Rust SLoC**: ~16 million
+- **Total Rust SLoC**: ~21 million
 - **Passing tests**: 250,000+
 - **Projects**: 40+ production-grade libraries
 - **All projects**: 100% `fail0` + `Clippy0` enforced
@@ -25,7 +25,7 @@ We are rebuilding the entire scientific, media, AI, semantic web, formal verific
 | Category                          | Project            | Description                                                                 | Link |
 |-----------------------------------|--------------------|-----------------------------------------------------------------------------|------|
 | **Scientific Computing**          | SciRS2             | Complete NumPy/SciPy/scikit-learn replacement (2.59M SLoC)                  | [→](https://github.com/cool-japan/scirs) |
-| **Media & Computer Vision**       | OxiMedia           | FFmpeg + OpenCV replacement (97 crates)                                     | [→](https://github.com/cool-japan/oximedia) |
+| **Media & Computer Vision**       | OxiMedia           | FFmpeg + OpenCV replacement (106 crates)                                    | [→](https://github.com/cool-japan/oximedia) |
 | **Geospatial**                    | OxiGDAL            | Pure Rust GDAL replacement (cloud-native, full CRS & formats)               | [→](https://github.com/cool-japan/oxigdal) |
 | **Deep Learning**                 | ToRSh              | PyTorch-compatible framework with native sharding                           | [→](https://github.com/cool-japan/torsh) |
 | **Semantic Web & AI Reasoning**   | OxiRS          | Rust-native platform for Semantic Web, SPARQL 1.2, GraphQL, Digital Twin (Apache Jena replacement) | [→](https://github.com/cool-japan/oxirs) |
