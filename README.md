@@ -1,4 +1,4 @@
-![Crates](https://img.shields.io/badge/crates-576-orange)
+![Crates](https://img.shields.io/badge/crates-597-orange)
 ![SLoC](https://img.shields.io/badge/SLoC-~16M-blue)
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
 
@@ -6,17 +6,16 @@
 
 **One of the largest pure-Rust sovereignty stacks in history.**
 
-The official COOLJAPAN Pure Rust Ecosystem — 576 crates, ~16M SLoC, zero C/FFI (in default) · Memory-safe by design.
-We are rebuilding the entire scientific, media, AI, formal verification, and systems stack in pure Rust — so AI agents and critical software can run anywhere with full sovereignty.
+The official COOLJAPAN Pure Rust Ecosystem — 597 crates, ~16M SLoC, zero C/FFI (in default) · Memory-safe by design.
+We are rebuilding the entire scientific, media, AI, semantic web, formal verification, and systems stack in pure Rust — so AI agents and critical software can run anywhere with full sovereignty.
 
 ---
 
 ### 📊 Ecosystem at a Glance (March 2026)
-- **Total crates**: 576 (and growing daily)
+- **Total crates**: 597 (and growing daily)
 - **Total Rust SLoC**: ~16 million
-- **Passing tests**: 150,000+
-- **Projects**: 41+ production-grade libraries
-- **Stars**: Rapidly increasing
+- **Passing tests**: 250,000+
+- **Projects**: 40+ production-grade libraries
 - **All projects**: 100% `fail0` + `Clippy0` enforced
 
 ---
@@ -57,7 +56,7 @@ We are rebuilding the entire scientific, media, AI, formal verification, and sys
 - Star the repos you like
 - Try the WASM demos
 - Contribute (we welcome PRs and issues)
-- Follow the blog for weekly release updates
+- Follow the blog for daily release updates
 
 **The Rust sovereignty stack is here.**  
 No more C dependencies (in default). No more Python for science. No more cloud lock-in.
