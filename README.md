@@ -1,5 +1,5 @@
-![Crates](https://img.shields.io/badge/crates-597-orange)
-![SLoC](https://img.shields.io/badge/SLoC-~21M-blue)
+![Crates](https://img.shields.io/badge/crates-603-orange)
+![SLoC](https://img.shields.io/badge/SLoC-~24M-blue)
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
 
 # COOLJAPAN
