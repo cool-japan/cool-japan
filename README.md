@@ -6,15 +6,15 @@
 
 **One of the largest pure-Rust sovereignty stacks in history.**
 
-The official COOLJAPAN Pure Rust Ecosystem — 597 crates, ~21M SLoC, zero C/FFI (in default) · Memory-safe by design.
+The official COOLJAPAN Pure Rust Ecosystem — 603 crates, ~24M SLoC, zero C/FFI (in default) · Memory-safe by design.
 We are rebuilding the entire scientific, media, AI, semantic web, formal verification, and systems stack in pure Rust — so AI agents and critical software can run anywhere with full sovereignty.
 
 ---
 
 ### 📊 Ecosystem at a Glance (March 2026)
-- **Total crates**: 597 (and growing daily)
-- **Total Rust SLoC**: ~21 million
-- **Passing tests**: 250,000+
+- **Total crates**: 603 (and growing daily)
+- **Total Rust SLoC**: ~24 million
+- **Passing tests**: 270,000+
 - **Projects**: 40+ production-grade libraries
 - **All projects**: 100% `fail0` + `Clippy0` enforced
 
