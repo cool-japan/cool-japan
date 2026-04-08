@@ -1,20 +1,20 @@
-![Crates](https://img.shields.io/badge/crates-603-orange)
-![SLoC](https://img.shields.io/badge/SLoC-~24M-blue)
+![Crates](https://img.shields.io/badge/crates-621-orange)
+![SLoC](https://img.shields.io/badge/SLoC-~26M-blue)
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
 
 # COOLJAPAN
 
 **One of the largest pure-Rust sovereignty stacks in history.**
 
-The official COOLJAPAN Pure Rust Ecosystem — 603 crates, ~24M SLoC, zero C/FFI (in default) · Memory-safe by design.
+The official COOLJAPAN Pure Rust Ecosystem — 621 crates, ~26M SLoC, zero C/FFI (in default) · Memory-safe by design.
 We are rebuilding the entire scientific, media, AI, semantic web, formal verification, and systems stack in pure Rust — so AI agents and critical software can run anywhere with full sovereignty.
 
 ---
 
-### 📊 Ecosystem at a Glance (March 2026)
-- **Total crates**: 603 (and growing daily)
-- **Total Rust SLoC**: ~24 million
-- **Passing tests**: 270,000+
+### 📊 Ecosystem at a Glance (April 2026)
+- **Total crates**: 621 (and growing daily)
+- **Total Rust SLoC**: ~26 million (Mostly the same as Linux Kernel)
+- **Passing tests**: 350,000+
 - **Projects**: 40+ production-grade libraries
 - **All projects**: 100% `fail0` + `Clippy0` enforced
 
@@ -24,7 +24,8 @@ We are rebuilding the entire scientific, media, AI, semantic web, formal verific
 
 | Category                          | Project            | Description                                                                 | Link |
 |-----------------------------------|--------------------|-----------------------------------------------------------------------------|------|
-| **Scientific Computing**          | SciRS2             | Complete NumPy/SciPy/scikit-learn replacement (2.59M SLoC)                  | [→](https://github.com/cool-japan/scirs) |
+| **Scientific Computing**          | SciRS2             | Complete NumPy/SciPy/scikit-learn replacement (3M SLoC)                     | [→](https://github.com/cool-japan/scirs) |
+| **Scientific Computing**          | OxiPhysics         | Unified physics engine - Bullet/OpenFOAM/LAMMPS/CalculiX replacement        | [→](https://github.com/cool-japan/oxiphysics) |
 | **Media & Computer Vision**       | OxiMedia           | FFmpeg + OpenCV replacement (106 crates)                                    | [→](https://github.com/cool-japan/oximedia) |
 | **Geospatial**                    | OxiGDAL            | Pure Rust GDAL replacement (cloud-native, full CRS & formats)               | [→](https://github.com/cool-japan/oxigdal) |
 | **Deep Learning**                 | ToRSh              | PyTorch-compatible framework with native sharding                           | [→](https://github.com/cool-japan/torsh) |
