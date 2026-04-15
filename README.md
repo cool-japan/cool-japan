@@ -1,21 +1,21 @@
-![Crates](https://img.shields.io/badge/crates-659-orange)
-![SLoC](https://img.shields.io/badge/SLoC-~26M-blue)
+![Crates](https://img.shields.io/badge/crates-662-orange)
+![SLoC](https://img.shields.io/badge/SLoC-~28M-blue)
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
 
 # COOLJAPAN
 
 **One of the largest pure-Rust sovereignty stacks in history.**
 
-The official COOLJAPAN Pure Rust Ecosystem — 659 crates, ~26M SLoC, zero C/FFI (in default) · Memory-safe by design.
+The official COOLJAPAN Pure Rust Ecosystem — 662 crates, ~28M SLoC, zero C/FFI (in default) · Memory-safe by design.
 We are rebuilding the entire scientific, media, AI, semantic web, formal verification, and systems stack in pure Rust — so AI agents and critical software can run anywhere with full sovereignty.
 
 ---
 
 ### 📊 Ecosystem at a Glance (April 2026)
-- **Total crates**: 659 (and growing daily)
-- **Total Rust SLoC**: ~26 million (Mostly the same as Linux Kernel)
+- **Total crates**: 662 (and growing daily)
+- **Total Rust SLoC**: ~28 million (Mostly the same as Linux Kernel)
 - **Passing tests**: 350,000+
-- **Projects**: 40+ production-grade libraries
+- **Projects**: 60+ production-grade libraries
 - **All projects**: 100% `fail0` + `Clippy0` enforced
 
 ---
@@ -39,7 +39,7 @@ We are rebuilding the entire scientific, media, AI, semantic web, formal verific
 | **Formal Verification**           | OxiZ               | High-performance SMT solver (Z3 replacement)                                | [→](https://github.com/cool-japan/oxiz) |
 | **Legal Technology**              | Legalis-RS         | Legal statute parser, analyzer & simulator (Legal DX)                       | [→](https://github.com/cool-japan/legalis) |
 | **Real-time Signal Processing**   | Kizzasi            | Rust-native AGSP for continuous audio, sensor, robotics & video streams     | [→](https://github.com/cool-japan/kizzasi) |
-| ...                               | 30+ more projects  | Full ecosystem overview at [cooljapan.tech](https://cooljapan.tech)                                   | — |
+| ...                               | 45+ more projects  | Full ecosystem overview at [cooljapan.tech](https://cooljapan.tech)                                   | — |
 
 **Full project list & latest releases** → [Ecosystem Overview](https://cooljapan.tech)
 
