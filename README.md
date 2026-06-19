@@ -1,20 +1,20 @@
-![Crates](https://img.shields.io/badge/crates-850-orange)
-![SLoC](https://img.shields.io/badge/SLoC-~32M-blue)
+![Crates](https://img.shields.io/badge/crates-861-orange)
+![SLoC](https://img.shields.io/badge/SLoC-~34M-blue)
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
 
 # COOLJAPAN
 
 **One of the largest pure-Rust sovereignty stacks in history.**
 
-The official COOLJAPAN Pure Rust Ecosystem — 850 crates, ~32M SLoC, zero C/FFI (in default) · Memory-safe by design.
+The official COOLJAPAN Pure Rust Ecosystem — 861 crates, ~34M SLoC, zero C/FFI (in default) · Memory-safe by design.
 We are rebuilding the entire scientific, media, AI, semantic web, formal verification, and systems stack in pure Rust — so AI agents and critical software can run anywhere with full sovereignty.
 
 ---
 
 ### 📊 Ecosystem at a Glance (June 2026)
-- **Total crates**: 850 (and growing daily)
-- **Total Rust SLoC**: ~32 million (Mostly the same as Linux Kernel)
-- **Passing tests**: 350,000+
+- **Total crates**: 861 (and growing daily)
+- **Total Rust SLoC**: ~34 million (Mostly the same as Linux Kernel)
+- **Passing tests**: 400,000+
 - **Projects**: 75+ production-grade libraries
 - **All projects**: 100% `fail0` + `Clippy0` enforced
 
@@ -26,10 +26,10 @@ We are rebuilding the entire scientific, media, AI, semantic web, formal verific
 |-----------------------------------|--------------------|-----------------------------------------------------------------------------|------|
 | **Scientific Computing**          | SciRS2             | Complete NumPy/SciPy/scikit-learn replacement (~3M SLoC)                    | [→](https://github.com/cool-japan/scirs) |
 | **Scientific Computing**          | OxiPhysics         | Unified physics engine - Bullet/OpenFOAM/LAMMPS/CalculiX replacement        | [→](https://github.com/cool-japan/oxiphysics) |
-| **LLM**                           | OxiBonsai          | Pure Rust 1-Bit (Sub-2-Bit) LLM Inference Engine for PrismML Bonsai Models  | [→](https://github.com/cool-japan/oxibonsai) |
+| **LLM**                           | OxiBonsai          | Pure Rust 1-Bit (Sub-2-Bit) LLM Inference Engine + IMAGEN for PrismML Bonsai Models  | [→](https://github.com/cool-japan/oxibonsai) |
 | **LLM**                           | OxiLLaMa           | Pure Rust LLM inference engine — the sovereign alternative to llama.cpp     | [→](https://github.com/cool-japan/oxillama) |
 | **GPU (CUDA)**                    | OxiCUDA            | NVIDIA CUDA Toolkit software stack with type-safe, memory-safe Rust code    | [→](https://github.com/cool-japan/oxicuda) |
-| **Media & Computer Vision**       | OxiMedia           | FFmpeg + OpenCV replacement (108 crates)  (~2.7M SLoC)                      | [→](https://github.com/cool-japan/oximedia) |
+| **Media & Computer Vision**       | OxiMedia           | FFmpeg + OpenCV replacement (108 crates)  (~3M SLoC)                      | [→](https://github.com/cool-japan/oximedia) |
 | **Geospatial**                    | OxiGDAL            | Pure Rust GDAL replacement (cloud-native, full CRS & formats)               | [→](https://github.com/cool-japan/oxigdal) |
 | **Deep Learning**                 | ToRSh              | PyTorch-compatible framework with native sharding                           | [→](https://github.com/cool-japan/torsh) |
 | **Semantic Web & AI Reasoning**   | OxiRS          | Rust-native platform for Semantic Web, SPARQL 1.2, GraphQL, Digital Twin (Apache Jena replacement) | [→](https://github.com/cool-japan/oxirs) |
