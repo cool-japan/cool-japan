@@ -1,19 +1,19 @@
 ![Crates](https://img.shields.io/badge/crates-900-orange)
-![SLoC](https://img.shields.io/badge/SLoC-~35M-blue)
+![SLoC](https://img.shields.io/badge/SLoC-~36M-blue)
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
 
 # COOLJAPAN
 
 **One of the largest pure-Rust sovereignty stacks in history.**
 
-The official COOLJAPAN Pure Rust Ecosystem — 900 crates, ~35M SLoC, zero C/FFI (in default) · Memory-safe by design.
+The official COOLJAPAN Pure Rust Ecosystem — 900 crates, ~36M SLoC, zero C/FFI (in default) · Memory-safe by design.
 We are rebuilding the entire scientific, media, AI, semantic web, formal verification, and systems stack in pure Rust — so AI agents and critical software can run anywhere with full sovereignty.
 
 ---
 
 ### 📊 Ecosystem at a Glance (July 2026)
 - **Total crates**: 900+ (and growing daily)
-- **Total Rust SLoC**: ~35 million (Mostly the same as Linux Kernel)
+- **Total Rust SLoC**: ~36 million (Mostly the same as Linux Kernel)
 - **Passing tests**: 400,000+
 - **Projects**: 75+ production-grade libraries
 - **All projects**: 100% `fail0` + `Clippy0` enforced
