@@ -14,6 +14,7 @@ We are rebuilding the entire scientific, media, AI, semantic web, formal verific
 ### 📊 Ecosystem at a Glance (July 2026)
 - **Total crates**: 900+ (and growing daily)
 - **Total Rust SLoC**: ~36 million (Mostly the same as Linux Kernel)
+- **Total Rust Files**: 100,000+
 - **Passing tests**: 400,000+
 - **Projects**: 75+ production-grade libraries
 - **All projects**: 100% `fail0` + `Clippy0` enforced
