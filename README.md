@@ -51,10 +51,18 @@ We are rebuilding the entire scientific, media, AI, semantic web, formal verific
 
 ---
 
-## Weekly COOLJAPAN Article (Third Party) — Call for Articles
+## Monthly COOLJAPAN Article (Third Party) — Call for Articles
 
-Independent write-ups about the COOLJAPAN Pure Rust ecosystem, updated weekly.
+Independent write-ups about the COOLJAPAN Pure Rust ecosystem, updated monthly.
+
 Curated by KitaSan — the first individual sponsor of the Apache Software Foundation and the founder of the Apache Newsletter (2003).
+
+- **2026-05** — [1-Bit LLMs in Pure Rust — A field report from OxiBonsai v0.1.3](https://nazquadri.com/blog/everyday-thoughts/oxibonsai-1-bit-pure-rust/) · Naz Quadri
+  A hands-on field report: measured decode and prefill throughput across the
+  CPU AVX-2 and CUDA backends on real hardware, read through the SIMD kernels
+  and error model, and documented three defects. Assesses the source as
+  senior-level human Rust, and notes that release count rather than commit
+  count is the meaningful activity signal for this codebase.
 
 - **2026-08** — [Local Inference Engine: OxiBonsai](https://discuss.4d.com/t/local-inference-engine-oxibonsai/39077) · 4D Developer Community
   Introduces OxiBonsai as a pure Rust inference engine for PrismML's sub-2-bit
