@@ -41,9 +41,9 @@ We are rebuilding the entire scientific, media, AI, semantic web, formal verific
 | **Formal Verification**           | OxiLean            | Memory-safe Interactive Theorem Prover (Lean 4 inspired)                    | [→](https://github.com/cool-japan/oxilean) |
 | **Formal Verification**           | OxiZ               | High-performance SMT solver (Z3 replacement)                                | [→](https://github.com/cool-japan/oxiz) |
 | **Pure Rust Demo (EML)**           | Phop               | Differentiable symbolic-discovery engine written entirely in pure Rust     | [→](https://github.com/cool-japan/phop) |
-| **Legal Technology**              | Legalis-RS         | Legal statute parser, analyzer & simulator (Legal DX)                       | [→](https://github.com/cool-japan/legalis) |
+| **Legal Technology**              | Legalis-RS (legalis)| Legal statute parser, analyzer & simulator (Legal DX)                       | [→](https://github.com/cool-japan/legalis) |
 | **Government Technology (GovTech)** | OxigenAI         | OxigenAI rebuilds the (Japan) Digital Agency's government AI legal system "GenAI", powered by Legalis-RS and OxiZ   | [→](https://github.com/cool-japan/oxigenai) |
-| **XML**   | OxiXML            | Pure Rust libraries of XSLT 3.0 / XQuery / XSD 1.1 / RELAX NG / Schematron / XMLDSig / XSL-FO / RDF 1.2 / Turtle / RDF-XML / JSON-LD / RDFa / canonicalization / SPARQL     | [→](https://github.com/cool-japan/oxixml) |
+| **XML**   | OxiXML            | Pure Rust libraries of XSLT 3.0 / XQuery / XSD 1.1 / RELAX NG / Schematron / XMLDSig / XSL-FO / RDF 1.2 / Turtle / RDF-XML / JSON-LD / RDFa / SVG / canonicalization / SPARQL     | [→](https://github.com/cool-japan/oxixml) |
 | **Ephemeris**   | OxiEphemeris            | A pure-Rust, clean-room astronomical ephemeris engine (esp. for Astrology)     | [→](https://github.com/cool-japan/oxiephemeris) |
 | **Real-time Signal Processing**   | Kizzasi            | Rust-native AGSP for continuous audio, sensor, robotics & video streams     | [→](https://github.com/cool-japan/kizzasi) |
 | ...                               | 60+ more projects  | Full ecosystem overview at [cooljapan.tech](https://cooljapan.tech)                                   | — |
@@ -92,7 +92,7 @@ with the link, or email contact@cooljapan.tech — we'll feature it here.
 
 - Star the repos you like
 - Try the WASM demos
-- Contribute (we welcome PRs and issues)
+- Contribute (we welcome issues)
 - Follow the blog for daily release updates
 
 **The Rust sovereignty stack is here.**  
