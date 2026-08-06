@@ -1,6 +1,7 @@
 ![Crates](https://img.shields.io/badge/crates-900-orange)
 ![SLoC](https://img.shields.io/badge/SLoC-~36M-blue)
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
+[![Discussions](https://img.shields.io/badge/Discussions-%F0%9F%92%AC-blue?logo=github&style=flat)](https://github.com/cool-japan/cool-japan/discussions)
 
 # COOLJAPAN
 
