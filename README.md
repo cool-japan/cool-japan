@@ -11,7 +11,7 @@ We are rebuilding the entire scientific, media, AI, semantic web, formal verific
 
 ---
 
-### 📊 Ecosystem at a Glance (July 2026)
+### 📊 Ecosystem at a Glance (August 2026)
 - **Total crates**: 900+ (and growing daily)
 - **Total Rust SLoC**: ~36 million (Mostly the same as Linux Kernel)
 - **Total Rust Files**: 100,000+
@@ -48,6 +48,23 @@ We are rebuilding the entire scientific, media, AI, semantic web, formal verific
 | ...                               | 60+ more projects  | Full ecosystem overview at [cooljapan.tech](https://cooljapan.tech)                                   | — |
 
 **Full project list & latest releases** → [Ecosystem Overview](https://cooljapan.tech)
+
+---
+
+## Weekly COOLJAPAN Article (Third Party) — Call for Articles
+
+Independent write-ups about the COOLJAPAN Pure Rust ecosystem, updated weekly.
+Curated by KitaSan — the first individual sponsor of the Apache Software Foundation and the founder of the Apache Newsletter (2003).
+
+- **2026-08** — [Local Inference Engine: OxiBonsai](https://discuss.4d.com/t/local-inference-engine-oxibonsai/39077) · 4D Developer Community
+  Introduces OxiBonsai as a pure Rust inference engine for PrismML's sub-2-bit
+  Bonsai models, noting its OpenAI-compatible server API as a drop-in
+  replacement for existing workflows, and its zero C/FFI construction on the
+  COOLJAPAN ecosystem.
+
+📚 **[Full archive → cooljapan.tech/articles](https://cooljapan.tech/articles)**
+
+Written about COOLJAPAN? Send us the link and we'll feature it here — contact@cooljapan.tech
 
 ---
 
