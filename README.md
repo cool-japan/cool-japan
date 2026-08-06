@@ -51,7 +51,7 @@ We are rebuilding the entire scientific, media, AI, semantic web, formal verific
 
 ---
 
-## Monthly COOLJAPAN Article (Third Party) — Call for Articles
+### Monthly COOLJAPAN Article (Third Party) — Call for Articles
 
 Independent write-ups about the COOLJAPAN Pure Rust ecosystem, updated monthly.
 
@@ -72,7 +72,9 @@ Curated by KitaSan — the first individual sponsor of the Apache Software Found
 
 📚 **[Full archive → cooljapan.tech/articles](https://cooljapan.tech/articles)**
 
-Written about COOLJAPAN? Send us the link and we'll feature it here — contact@cooljapan.tech
+Written about COOLJAPAN? Open an issue at
+[cool-japan/cool-japan/issues](https://github.com/cool-japan/cool-japan/issues)
+with the link, or email contact@cooljapan.tech — we'll feature it here.
 
 ---
 
