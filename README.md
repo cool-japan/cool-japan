@@ -9,6 +9,7 @@
 
 The official COOLJAPAN Pure Rust Ecosystem — 900 crates, ~36M SLoC, zero C/FFI (in default) · Memory-safe by design.
 We are rebuilding the entire scientific, media, AI, semantic web, formal verification, and systems stack in pure Rust — so AI agents and critical software can run anywhere with full sovereignty.
+Playground: https://play.cooljapan.dev/
 
 ---
 
@@ -91,7 +92,7 @@ with the link, or email contact@cooljapan.tech — we'll feature it here.
 ### 🛠 Get Involved
 
 - Star the repos you like
-- Try the WASM demos
+- [Try the WASM demos](https://play.cooljapan.dev/)
 - Contribute (we welcome issues)
 - Follow the blog for daily release updates
 
