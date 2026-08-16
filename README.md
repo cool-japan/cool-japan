@@ -9,6 +9,7 @@
 
 The official COOLJAPAN Pure Rust Ecosystem — 900 crates, ~36M SLoC, zero C/FFI (in default) · Memory-safe by design.
 We are rebuilding the entire scientific, media, AI, semantic web, formal verification, and systems stack in pure Rust — so AI agents and critical software can run anywhere with full sovereignty.
+
 Playground: https://play.cooljapan.dev/
 
 ---
@@ -49,7 +50,9 @@ Playground: https://play.cooljapan.dev/
 | **Real-time Signal Processing**   | Kizzasi            | Rust-native AGSP for continuous audio, sensor, robotics & video streams     | [→](https://github.com/cool-japan/kizzasi) |
 | ...                               | 60+ more projects  | Full ecosystem overview at [cooljapan.tech](https://cooljapan.tech)                                   | — |
 
-**Full project list & latest releases** → [Ecosystem Overview](https://cooljapan.tech)
+**Full project list** → [Ecosystem Overview](https://cooljapan.tech)
+
+**Latest updates** → [Tech Blog](https://blog.cooljapan.tech)
 
 ---
 
@@ -83,7 +86,7 @@ with the link, or email contact@cooljapan.tech — we'll feature it here.
 ### 📚 Resources
 
 - **Tech Blog** (official): [blog.cooljapan.tech](https://blog.cooljapan.tech)
-- **Medium** (release announcements): [kitasanio.medium.com](https://kitasanio.medium.com)
+- **Medium** (release announcements & Philosophy): [kitasanio.medium.com](https://kitasanio.medium.com)
 - **LinkedIn**: [KitaSan](https://www.linkedin.com/in/tetsuya) -- LinkedIn Member since Feb. 29th, 2004
 - **Main Website**: [cooljapan.tech](https://cooljapan.tech)
 
