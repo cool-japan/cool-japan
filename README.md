@@ -35,7 +35,7 @@ Playground: https://play.cooljapan.dev/
 | **GPU (CUDA)**                    | OxiCUDA            | NVIDIA CUDA Toolkit software stack with type-safe, memory-safe Rust code    | [→](https://github.com/cool-japan/oxicuda) |
 | **Media & Computer Vision**       | OxiMedia           | FFmpeg + OpenCV replacement (108 crates)  (~3M SLoC)                      | [→](https://github.com/cool-japan/oximedia) |
 | **Geospatial**                    | OxiGeo            | Pure Rust geospatial data processing engine — cloud-native, full CRS & format support               | [→](https://github.com/cool-japan/oxigeo) |
-| **GIS**                    | OxiGIS            | Pure Rust (100%) Implementation of Full-Stack GIS Interface — a desktop and browser GIS application with zero C/C++/Fortran FFI  | [→](https://github.com/cool-japan/oxigis) |
+| **GIS**                    | OxiGIS            | Pure Rust (100%) Implementation of Full-Stack GIS Interface — a desktop and browser GIS application with zero C/C++/Python FFI - [DEMO](https://gis.cooljapan.tech/) | [→](https://github.com/cool-japan/oxigis) |
 | **Deep Learning**                 | ToRSh              | PyTorch-compatible framework with native sharding                           | [→](https://github.com/cool-japan/torsh) |
 | **Semantic Web & AI Reasoning**   | OxiRS          | Rust-native platform for Semantic Web, SPARQL 1.2, GraphQL, Digital Twin (Apache Jena replacement) | [→](https://github.com/cool-japan/oxirs) |
 | **Scientific Computing**          | QuantRS2           | Full Quantum Computing Framework (QuantRS2)                                 | [→](https://github.com/cool-japan/quantrs) |
