@@ -37,12 +37,12 @@ Playground: https://play.cooljapan.dev/
 | **Geospatial**                    | OxiGeo            | Pure Rust geospatial data processing engine — cloud-native, full CRS & format support               | [→](https://github.com/cool-japan/oxigeo) |
 | **GIS**                    | OxiGIS            | Pure Rust (100%) Implementation of Full-Stack GIS Interface — a desktop and browser GIS application with zero C/C++/Python FFI - [DEMO](https://gis.cooljapan.tech/) | [→](https://github.com/cool-japan/oxigis) |
 | **Deep Learning**                 | ToRSh              | PyTorch-compatible framework with native sharding                           | [→](https://github.com/cool-japan/torsh) |
-| **Semantic Web & AI Reasoning**   | OxiRS          | Rust-native platform for Semantic Web, SPARQL 1.2, GraphQL, Digital Twin (Apache Jena replacement) | [→](https://github.com/cool-japan/oxirs) |
+| **Semantic Web & AI Reasoning**   | OxiRS          | Rust-native platform for Semantic Web, SPARQL 1.2, GraphQL, Digital Twin (Apache Jena replacement) - [DEMO1](https://ecolod.org/) | [→](https://github.com/cool-japan/oxirs) |
 | **Scientific Computing**          | QuantRS2           | Full Quantum Computing Framework (QuantRS2)                                 | [→](https://github.com/cool-japan/quantrs) |
-| **Digital Humans**                | OxiHuman           | Privacy-first parametric human body generator (WASM/WebGPU)                 | [→](https://github.com/cool-japan/oxihuman) |
+| **Digital Humans**                | OxiHuman           | Privacy-first parametric human body generator (WASM/WebGPU) - [DEMO](https://cooljapan.tech/bodylab/) | [→](https://github.com/cool-japan/oxihuman) |
 | **Digital Humans**                | OxiGAF             | Gaussian avatar reconstruction from monocular video                         | [→](https://github.com/cool-japan/oxigaf) |
 | **Formal Verification**           | OxiLean            | Memory-safe Interactive Theorem Prover (Lean 4 inspired)                    | [→](https://github.com/cool-japan/oxilean) |
-| **Formal Verification**           | OxiZ               | High-performance SMT solver (Z3 replacement)                                | [→](https://github.com/cool-japan/oxiz) |
+| **Formal Verification**           | OxiZ               | High-performance SMT solver (Z3 replacement) - [DEMO](https://play.cooljapan.dev/oxiz)   | [→](https://github.com/cool-japan/oxiz) |
 | **Pure Rust Demo (EML)**           | Phop               | Differentiable symbolic-discovery engine written entirely in pure Rust     | [→](https://github.com/cool-japan/phop) |
 | **Legal Technology**              | Legalis-RS (legalis)| Legal statute parser, analyzer & simulator (Legal DX)                       | [→](https://github.com/cool-japan/legalis) |
 | **Government Technology (GovTech)** | OxigenAI         | OxigenAI rebuilds the (Japan) Digital Agency's government AI legal system "GenAI", powered by Legalis-RS and OxiZ   | [→](https://github.com/cool-japan/oxigenai) |
