@@ -7,12 +7,10 @@
 
 **COOLJAPAN Rust Ecosystem — Sovereign software infrastructure built in Rust.**
 
-Run the same software, with the same commands, across Linux, macOS, Windows, containers, and WebAssembly — without being locked into a specific OS, cloud, or vendor. The official COOLJAPAN Pure Rust Ecosystem — 900 crates, ~36M SLoC, zero C/FFI (in default) · Memory-safe by design.
+Run the same software, with the same commands, across Linux, macOS, Windows, containers, and WebAssembly — without being locked into a specific OS, cloud, or vendor.
 We are rebuilding the entire scientific, media, AI, semantic web, formal verification, and systems stack in pure Rust — so AI agents and critical software can run anywhere with full sovereignty.
 
 Playground: https://play.cooljapan.dev/
-
-**One of the largest pure-Rust sovereignty stacks in history.**
 
 **Sovereignty by design.**
 
@@ -20,6 +18,7 @@ We build a comprehensive Rust-native software ecosystem designed to keep computa
 
 The goal is not merely portability. It is sovereignty: the ability to run, inspect, modify, reproduce, and deploy software across environments without surrendering control to a particular platform, cloud, or vendor.
 
+**Same software. Same commands. Your infrastructure. Your control.**
 
 ---
 
@@ -30,6 +29,8 @@ The goal is not merely portability. It is sovereignty: the ability to run, inspe
 - **Passing tests**: 400,000+
 - **Projects**: 75+ production-grade libraries
 - **All projects**: 100% `fail0` + `Clippy0` enforced
+
+**One of the largest pure-Rust sovereignty stacks in history.**
 
 ---
 
