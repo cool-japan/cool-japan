@@ -22,6 +22,24 @@ The goal is not merely portability. It is sovereignty: the ability to run, inspe
 
 ---
 
+### 🏭 Licensed Products
+
+Most of this ecosystem is Apache-2.0 and free. Seven vertical workspaces are licensed, priced in public, with a free 90-day full-source evaluation and no sales call required.
+
+| Product | Domain | Price | |
+|---|---|---|---|
+| **OxiAutoRS** | AUTOSAR Classic + Adaptive | from $40k/yr | [→](https://autors.cooljapan.tech/) |
+| **OxiMed** | DICOM · FHIR · IEC 62304 evidence | from $48k/yr | [→](https://med.cooljapan.tech/) |
+| **OxiCAD** | B-Rep geometry kernel | from $60k/yr | [→](https://cad.cooljapan.tech/) |
+| **OxiAero** | DO-178C evidence tooling | on request | [→](https://aero.cooljapan.tech/) |
+| **OxiEDA** | RTL to GDSII | on request | [→](https://eda.cooljapan.tech/) |
+| **Oxi3D** | Spatial · tessellation · point cloud | on request | [→](https://3d.cooljapan.tech/) |
+| **OxiCAR** | Autonomous driving simulation | on request | [→](https://car.cooljapan.tech/) |
+
+Each page states its own gaps by file. Start with the source, not a meeting.
+
+---
+
 ### 📊 Ecosystem at a Glance (August 2026)
 - **Total crates**: 900+ (and growing daily)
 - **Total Rust SLoC**: ~36 million (Mostly the same as Linux Kernel)
@@ -113,8 +131,6 @@ with the link, or email contact@cooljapan.tech — we'll feature it here.
 **The Rust sovereignty stack is here.**  
 No more C dependencies (in default). No more Python for science. No more cloud lock-in.
 
-Built with ❤️ by COOLJAPAN OÜ / Estonia (KitaSan, a Rustacean in a rusty, poor village in Southeast Asia)
-
 ---
 
-Made with pure Rust • All public • Always `fail0 + Clippy0`
+Made with pure Rust • Always `fail0 + Clippy0`
