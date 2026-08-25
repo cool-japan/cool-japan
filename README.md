@@ -123,9 +123,6 @@ with the link, or email contact@cooljapan.tech — we'll feature it here.
 
 ### 🛠 Get Involved
 
-- Star the repos you like
-- [Try the WASM demos](https://play.cooljapan.dev/)
-- Contribute (we welcome issues)
 - Follow the blog for daily release updates
 
 **The Rust sovereignty stack is here.**  
