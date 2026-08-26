@@ -24,7 +24,7 @@ The goal is not merely portability. It is sovereignty: the ability to run, inspe
 
 ### 🏭 Licensed Products
 
-Most of this ecosystem is Apache-2.0 and free. Seven vertical workspaces are licensed, priced in public, with a free 90-day full-source evaluation and no sales call required.
+Most of this ecosystem is Apache-2.0 and free. Seven vertical workspaces are licensed, priced in public, with paid 30-day full-source evaluation, credited in full against a licence, and no sales call required.
 
 | Product | Domain | Price | |
 |---|---|---|---|
