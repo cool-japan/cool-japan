@@ -10,8 +10,6 @@
 Run the same software, with the same commands, across Linux, macOS, Windows, containers, and WebAssembly — without being locked into a specific OS, cloud, or vendor.
 We are rebuilding the entire scientific, media, AI, semantic web, formal verification, and systems stack in pure Rust — so AI agents and critical software can run anywhere with full sovereignty.
 
-Playground: https://play.cooljapan.dev/
-
 **Sovereignty by design.**
 
 We build a comprehensive Rust-native software ecosystem designed to keep computation, data, and execution under the user's control.
@@ -116,6 +114,7 @@ with the link, or email contact@cooljapan.tech — we'll feature it here.
 
 - **Tech Blog** (official): [blog.cooljapan.tech](https://blog.cooljapan.tech)
 - **Medium** (release announcements & Philosophy): [kitasanio.medium.com](https://kitasanio.medium.com)
+- **Play Ground**: [play.cooljapan.dev](https://play.cooljapan.dev/)
 - **LinkedIn**: [KitaSan](https://www.linkedin.com/in/tetsuya) -- LinkedIn Member since Feb. 29th, 2004
 - **Main Website**: [cooljapan.tech](https://cooljapan.tech)
 
