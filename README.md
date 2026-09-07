@@ -74,6 +74,7 @@ Each page states its own gaps by file. Start with the source, not a meeting.
 | **Government Technology (GovTech)** | OxigenAI         | OxigenAI rebuilds the (Japan) Digital Agency's government AI legal system "GenAI", powered by Legalis-RS and OxiZ   | [→](https://github.com/cool-japan/oxigenai) |
 | **XML**   | OxiXML            | Pure Rust libraries of XSLT 3.0 / XQuery / XSD 1.1 / RELAX NG / Schematron / XMLDSig / XSL-FO / RDF 1.2 / Turtle / RDF-XML / JSON-LD / RDFa / SVG / canonicalization / SPARQL     | [→](https://github.com/cool-japan/oxixml) |
 | **Ephemeris**   | OxiEphemeris            | A pure-Rust, clean-room astronomical ephemeris engine (esp. for Astrology)     | [→](https://github.com/cool-japan/oxiephemeris) |
+| **Robot OS**   | AstRS            | Pure Rust dataflow middleware for the robotic age (Pure Rust alternative to ROS2)    | [→](https://github.com/cool-japan/astrs) |
 | **Real-time Signal Processing**   | Kizzasi            | Rust-native AGSP for continuous audio, sensor, robotics & video streams     | [→](https://github.com/cool-japan/kizzasi) |
 | ...                               | 60+ more projects  | Full ecosystem overview at [cooljapan.tech](https://cooljapan.tech)                                   | — |
 
