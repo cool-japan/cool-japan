@@ -1,5 +1,5 @@
-![Crates](https://img.shields.io/badge/crates-900-orange)
-![SLoC](https://img.shields.io/badge/SLoC-~36M-blue)
+![Crates](https://img.shields.io/badge/crates-1100-orange)
+![SLoC](https://img.shields.io/badge/SLoC-~40M-blue)
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
 [![Discussions](https://img.shields.io/badge/Discussions-%F0%9F%92%AC-blue?logo=github&style=flat)](https://github.com/cool-japan/cool-japan/discussions)
 
@@ -38,9 +38,9 @@ Each page states its own gaps by file. Start with the source, not a meeting.
 
 ---
 
-### 📊 Ecosystem at a Glance (August 2026)
-- **Total crates**: 900+ (and growing daily)
-- **Total Rust SLoC**: ~36 million (Mostly the same as Linux Kernel)
+### 📊 Ecosystem at a Glance (September 2026)
+- **Total crates**: 1100+ (and growing daily)
+- **Total Rust SLoC**: ~40 million (Mostly the same as Linux Kernel)
 - **Total Rust Files**: 100,000+
 - **Passing tests**: 400,000+
 - **Projects**: 75+ production-grade libraries
