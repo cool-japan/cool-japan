@@ -40,7 +40,7 @@ Each page states its own gaps by file. Start with the source, not a meeting.
 
 ### 📊 Ecosystem at a Glance (September 2026)
 - **Total crates**: 1100+ (and growing daily)
-- **Total Rust SLoC**: ~40 million (Mostly the same as Linux Kernel)
+- **Total Rust SLoC**: ~40 million (Mostly the same as Linux Kernel) (OSS: 30M + Licensed: 10M SLoC)
 - **Total Rust Files**: 100,000+
 - **Passing tests**: 400,000+
 - **Projects**: 75+ production-grade libraries
