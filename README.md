@@ -103,6 +103,9 @@ Curated by KitaSan — the first individual sponsor of the Apache Software Found
   replacement for existing workflows, and its zero C/FFI construction on the
   COOLJAPAN ecosystem.
 
+- **2026-10** — [The Rust Revolution Missed a Spot: Unveiling OxiRS for Next-Gen Knowledge Systems](https://medium.com/@monikasinghal713/the-rust-revolution-missed-a-spot-unveiling-oxirs-for-next-gen-knowledge-systems-2ca0f1faf951) · Monika Singhal
+  Explores how the Rust ecosystem previously lacked a native semantic web stack and introduces OxiRS as a memory-safe, zero-C/JVM replacement for legacy platforms like Apache Jena—powering next-generation knowledge graphs, SPARQL 1.2, and AI reasoning.
+
 📚 **[Full archive → cooljapan.tech/articles](https://cooljapan.tech/articles)**
 
 Written about COOLJAPAN? Open an issue at
