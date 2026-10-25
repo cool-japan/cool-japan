@@ -79,7 +79,7 @@ Each page states its own gaps by file. Start with the source, not a meeting.
 | **Ephemeris**   | OxiEphemeris            | A pure-Rust, clean-room astronomical ephemeris engine (esp. for Astrology) (Sponsor Only)    | [→](https://github.com/cool-japan/oxiephemeris) |
 | **Robot OS**   | AstRS            | Pure Rust dataflow middleware for the robotic age (Pure Rust alternative to ROS2) (Sponsor Only)   | [→](https://github.com/cool-japan/astrs) |
 | **Real-time Signal Processing**   | Kizzasi            | Rust-native AGSP for continuous audio, sensor, robotics & video streams     | [→](https://github.com/cool-japan/kizzasi) |
-| **Compression & Archive** | OxiArc | Pure Rust compression & archive stack — zero-C/FFI replacement for zlib / zstd / brotli / lz4 / xz / bzip2 / libarchive (DEFLATE, Zstd, Brotli, LZ4, LZMA, BZip2, LZH, ZIP, TAR) | [→](https://github.com/cool-japan/oxiarc) |
+| **Compression & Archive** | OxiArc | Pure Rust compression & archive stack — zero-C/FFI replacement for zlib / zstd / brotli / xz / libarchive (DEFLATE, Zstd, Brotli, LZMA, LZH, ZIP, TAR) — [Live Demo](https://play.cooljapan.dev/arc) | [→](https://github.com/cool-japan/oxiarc) |
 | ...                               | 50+ more projects  | Full ecosystem overview at [cooljapan.tech](https://cooljapan.tech)                                   | — |
 
 **Full project list** → [Ecosystem Overview](https://cooljapan.tech)
