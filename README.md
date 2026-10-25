@@ -2,6 +2,7 @@
 ![SLoC](https://img.shields.io/badge/SLoC-~40M-blue)
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
 [![Discussions](https://img.shields.io/badge/Discussions-%F0%9F%92%AC-blue?logo=github&style=flat)](https://github.com/cool-japan/cool-japan/discussions)
+[![Medium](https://img.shields.io/badge/Read_the_Story-Why_40M_SLoC_in_Pure_Rust-000000?logo=medium&logoColor=white)](https://medium.com/@kitasanio/why-we-rebuilt-40-million-lines-of-the-ai-scientific-stack-in-100-pure-rust-and-why-its-now-c455dfec3911)
 
 # COOLJAPAN
 
@@ -17,6 +18,8 @@ We build a comprehensive Rust-native software ecosystem designed to keep computa
 The goal is not merely portability. It is sovereignty: the ability to run, inspect, modify, reproduce, and deploy software across environments without surrendering control to a particular platform, cloud, or vendor.
 
 **Same software. Same commands. Your infrastructure. Your control.**
+
+📖 **Read the full story:** [Why We Rebuilt 40 Million Lines of the AI & Scientific Stack in 100% Pure Rust](https://medium.com/@kitasanio/why-we-rebuilt-40-million-lines-of-the-ai-scientific-stack-in-100-pure-rust-and-why-its-now-c455dfec3911)
 
 ---
 
