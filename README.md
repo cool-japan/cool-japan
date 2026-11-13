@@ -70,27 +70,27 @@ Support the ongoing development of the open-source ecosystem or secure commercia
 | Category                          | Project            | Description                                                                 | Link |
 |-----------------------------------|--------------------|-----------------------------------------------------------------------------|------|
 | **Scientific Computing**          | SciRS2             | Complete NumPy/SciPy/scikit-learn replacement (~3M SLoC)                    | [→](https://github.com/cool-japan/scirs) |
-| **Scientific Computing**          | OxiPhysics         | Unified physics engine - Bullet/OpenFOAM/LAMMPS/CalculiX replacement        | [→](https://github.com/cool-japan/oxiphysics) |
+| **Scientific Computing**          | OxiPhysics         | Unified physics engine - Bullet/OpenFOAM/LAMMPS/CalculiX replacement (Sponsor Only)        | [→](https://github.com/cool-japan/oxiphysics) |
 | **LLM**                           | OxiBonsai          | Pure Rust 1-Bit (Sub-2-Bit) LLM Inference Engine + IMAGEN for PrismML Bonsai Models  | [→](https://github.com/cool-japan/oxibonsai) |
 | **LLM**                           | OxiLLaMa           | Pure Rust LLM inference engine — the sovereign alternative to llama.cpp     | [→](https://github.com/cool-japan/oxillama) |
 | **GPU (CUDA)**                    | OxiCUDA            | NVIDIA CUDA Toolkit software stack with type-safe, memory-safe Rust code    | [→](https://github.com/cool-japan/oxicuda) |
 | **Media & Computer Vision**       | OxiMedia           | FFmpeg + OpenCV replacement (108 crates)  (~3M SLoC)                      | [→](https://github.com/cool-japan/oximedia) |
 | **Geospatial**                    | OxiGeo            | Pure Rust geospatial data processing engine — cloud-native, full CRS & format support               | [→](https://github.com/cool-japan/oxigeo) |
-| **GIS**                    | OxiGIS            | Pure Rust (100%) Implementation of Full-Stack GIS Interface — a desktop and browser GIS application with zero C/C++/Python FFI - [DEMO](https://gis.cooljapan.tech/) | [→](https://github.com/cool-japan/oxigis) |
+| **GIS**                    | OxiGIS            | Pure Rust (100%) Implementation of Full-Stack GIS Interface — a desktop and browser GIS application with zero C/C++/Python FFI (Sponsor Only) - [DEMO](https://gis.cooljapan.tech/) | [→](https://github.com/cool-japan/oxigis) |
 | **Deep Learning**                 | ToRSh              | PyTorch-compatible framework with native sharding                           | [→](https://github.com/cool-japan/torsh) |
 | **Semantic Web & AI Reasoning**   | OxiRS          | Rust-native platform for Semantic Web, SPARQL 1.2, GraphQL, Digital Twin (Apache Jena replacement) - [DEMO1](https://ecolod.org/) | [→](https://github.com/cool-japan/oxirs) |
 | **Scientific Computing**          | QuantRS2           | Full Quantum Computing Framework (QuantRS2)                                 | [→](https://github.com/cool-japan/quantrs) |
-| **Digital Humans**                | OxiHuman           | Privacy-first parametric human body generator (WASM/WebGPU) - [DEMO](https://cooljapan.tech/bodylab/) | [→](https://github.com/cool-japan/oxihuman) |
+| **Digital Humans**                | OxiHuman           | Privacy-first parametric human body generator (WASM/WebGPU) (Sponsor Only) - [DEMO](https://cooljapan.tech/bodylab/) | [→](https://github.com/cool-japan/oxihuman) |
 | **Digital Humans**                | OxiGAF             | Gaussian avatar reconstruction from monocular video (Sponsor Only)                 | [→](https://github.com/cool-japan/oxigaf) |
 | **Formal Verification**           | OxiLean            | Memory-safe Interactive Theorem Prover (Lean 4 inspired)                    | [→](https://github.com/cool-japan/oxilean) |
 | **Formal Verification**           | OxiZ               | High-performance SMT solver (Z3 replacement) - [DEMO](https://play.cooljapan.dev/oxiz)   | [→](https://github.com/cool-japan/oxiz) |
 | **Pure Rust Demo (EML)**           | Phop               | Differentiable symbolic-discovery engine written entirely in pure Rust (Sponsor Only)     | [→](https://github.com/cool-japan/phop) |
 | **Legal Technology**              | Legalis-RS (legalis)| Legal statute parser, analyzer & simulator (Legal DX)                       | [→](https://github.com/cool-japan/legalis) |
-| **Government Technology (GovTech)** | OxigenAI         | OxigenAI rebuilds the (Japan) Digital Agency's government AI legal system "GenAI", powered by Legalis-RS and OxiZ   | [→](https://github.com/cool-japan/oxigenai) |
+| **Government Technology (GovTech)** | OxigenAI         | OxigenAI rebuilds the (Japan) Digital Agency's government AI legal system "GenAI", powered by Legalis-RS and OxiZ (Sponsor Only)   | [→](https://github.com/cool-japan/oxigenai) |
 | **XML**   | OxiXML            | Pure Rust libraries of XSLT 3.0 / XQuery / XSD 1.1 / RELAX NG / Schematron / XMLDSig / XSL-FO / RDF 1.2 / Turtle / RDF-XML / JSON-LD / RDFa / SVG / canonicalization / SPARQL     | [→](https://github.com/cool-japan/oxixml) |
 | **Ephemeris**   | OxiEphemeris            | A pure-Rust, clean-room astronomical ephemeris engine (esp. for Astrology) (Sponsor Only)    | [→](https://github.com/cool-japan/oxiephemeris) |
 | **Robot OS**   | AstRS            | Pure Rust dataflow middleware for the robotic age (Pure Rust alternative to ROS2) (Sponsor Only)   | [→](https://github.com/cool-japan/astrs) |
-| **Real-time Signal Processing**   | Kizzasi            | Rust-native AGSP for continuous audio, sensor, robotics & video streams     | [→](https://github.com/cool-japan/kizzasi) |
+| **Real-time Signal Processing**   | Kizzasi            | Rust-native AGSP for continuous audio, sensor, robotics & video streams (Sponsor Only)     | [→](https://github.com/cool-japan/kizzasi) |
 | **Compression & Archive** | OxiArc | Pure Rust compression & archive stack — zero-C/FFI replacement for zlib / zstd / brotli / xz / libarchive (DEFLATE, Zstd, Brotli, LZMA, LZH, ZIP, TAR) — [Live Demo](https://play.cooljapan.dev/arc) | [→](https://github.com/cool-japan/oxiarc) |
 | ...                               | 50+ more projects  | Full ecosystem overview at [cooljapan.tech](https://cooljapan.tech)                                   | — |
 
