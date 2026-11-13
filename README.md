@@ -41,6 +41,18 @@ Each page states its own gaps by file. Start with the source, not a meeting.
 
 ---
 
+### 🤝 Sponsorship & Commercial Support
+
+Support the ongoing development of the open-source ecosystem or secure commercial licences and dedicated engineering hours via [GitHub Sponsors](https://github.com/sponsors/cool-japan):
+
+| Tier | Monthly | Focus & Deliverables |
+|---|---|---|
+| **Ecosystem & Tooling Partner** | **$1,500** | Sustained maintenance for 100% Pure Rust infrastructure & verification tooling (e.g., `cargo-formal`), roadmap input, public recognition |
+| **Commercial Support Partner** | **$4,500** | Written commercial licence (internal integration), up to 10 hrs/mo engineering & review, priority triage, quarterly briefing |
+| **Strategic Support Partner** | **$12,000** | Commercial licence covering named products, up to 40 hrs/mo dedicated engineering, monthly working session, pre-release builds |
+
+---
+
 ### 📊 Ecosystem at a Glance (September 2026)
 - **Total crates**: 1100+ (and growing daily)
 - **Total Rust SLoC**: ~40 million (Mostly the same as Linux Kernel) (OSS: 30M + Licensed: 10M SLoC)
