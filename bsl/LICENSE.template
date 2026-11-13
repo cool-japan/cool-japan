@@ -33,11 +33,22 @@ Additional Use Grant: (1) Sponsors. You may make production use of the Licensed
                       including academic research, and for teaching; and (d) on
                       non-commercial personal projects. The Licensor regards
                       each of these as non-production use, and grants it here
-                      in case it is not.
+                      in case it is not. None of them includes publishing
+                      software that depends on the Licensed Work
+                      (paragraph (3)).
 
                       (3) What the Licensor regards as production use. The
-                      Licensor regards as production use any commercial use of
-                      the Licensed Work, that is, {{PRODUCTION_USE}}
+                      Licensor regards as production use (a) any commercial use
+                      of the Licensed Work, that is, {{PRODUCTION_USE}}; and (b) publishing
+                      software that depends on the Licensed Work, whether or
+                      not for a fee. Software depends on the Licensed Work when
+                      it names the Licensed Work, or a package built from it,
+                      as a dependency. It is published when it, or its source,
+                      is made available to others, for example in a public
+                      repository on GitHub or another hosting service, or on
+                      crates.io or another package registry. This paragraph
+                      does not limit the right this License grants to copy and
+                      redistribute the Licensed Work itself.{{PRODUCTION_USE_MORE}}
 
                       (4) Output. This License does not restrict what the
                       Licensed Work produces when it is run: {{OUTPUT}}. You may

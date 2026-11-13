@@ -9,13 +9,15 @@ page and that file differ, the file is right.
 
 - **Free:** trying the {{KIND}} out to decide whether to adopt it, working on the
   {{KIND}} itself, non-commercial research (academic research included),
-  teaching, and non-commercial personal projects.
+  teaching, and non-commercial personal projects, as long as you do not
+  publish software that depends on the {{KIND}}.
 - **Needs a sponsorship:** production use. The Licensor regards any
-  commercial use of the {{KIND}} as production use: {{IN_SHORT_PRODUCTION}} The sponsorship is
-  USD 1,500 per month or more for this {{KIND}} alone; USD 4,500 per month or
-  more covers up to five of the Licensor's works under the Business Source
-  License, named in writing, and USD 12,000 per month or more covers all of
-  them.
+  commercial use of the {{KIND}} as production use: {{IN_SHORT_PRODUCTION}} It also regards as production
+  use publishing software that depends on the {{KIND}}, commercial or not. The
+  sponsorship is USD 1,500 per month or more for this {{KIND}} alone; USD 4,500
+  per month or more covers up to five of the Licensor's works under the
+  Business Source License, named in writing, and USD 12,000 per month or
+  more covers all of them.
 {{IN_SHORT_MORE}}
 - **Apache-2.0 for all of it on {{CHANGE_DATE}}.**
 
@@ -38,6 +40,9 @@ Non-production use needs no sponsorship, no registration and no key:
 - non-commercial research, academic research included, and teaching;
 - non-commercial personal projects.
 
+None of these covers publishing software that depends on the {{KIND}}. The
+Licensor regards that as production use, as the next section says.
+
 Evaluation has no time limit. What ends it is adoption: once the {{KIND}} is {{ADOPTION}}, the Licensor
 regards that use as production use and no longer as evaluation, whatever it
 is called, and it is the use a sponsorship covers.
@@ -53,6 +58,15 @@ a project.
 
 Production use does. The Licensor regards any commercial use of the {{KIND}} as
 production use, that is, {{PRODUCTION_USE_DETAIL}}
+
+The Licensor also regards as production use publishing software that depends
+on the {{KIND}}, whether or not for a fee and whether or not that software is
+commercial. Software depends on the {{KIND}} when it names the {{KIND}}, or a package
+built from it, as a dependency, for example in its `Cargo.toml`. It is
+published when it, or its source, is made available to others, for example
+in a public repository on GitHub or another hosting service, or on crates.io
+or another package registry. This does not limit copying and redistributing
+the {{KIND}} itself with its licence attached, which the `LICENSE` file allows.
 
 The sponsor is whoever uses the {{KIND}}: an organisation or an individual. An
 organisation's sponsorship covers its employees, and the contractors working
@@ -117,7 +131,7 @@ carries says so.
 
 The source repository is private. {{RELEASE}} Source-available means that you may read that
 source, copy it, change it and redistribute it with its licence attached.
-Until the Change Date it does not mean that you may run it in production
-without a sponsorship.
+Until the Change Date it does not mean that you may run it in production,
+or publish software that depends on it, without a sponsorship.
 
 {{THIRD_PARTY_SECTION}}
