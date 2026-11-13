@@ -85,7 +85,7 @@ more than once takes the same value each time.
 | `{{EVALUATION}}` | What trying the work means | "trying it, on your own code too," |
 | `{{ADOPTION}}` | When the work counts as adopted. Keep it in step with `{{PRODUCTION_USE}}` of `LICENSE`. | A standing part of how commercial software is developed, released or operated |
 | `{{PRODUCTION_USE_DETAIL}}` | The rest of the first paragraph of "What needs a sponsorship", in step with `{{PRODUCTION_USE}}` | Running `cargo formal` on commercially developed software, in CI or by a developer at work |
-| `{{PAGE_URL}}` | The Licensor's page for the work. It lists the ways to take out a sponsorship and nothing else. | https://cooljapan.tech/cargo-formal/ |
+| `{{PAGE_URL}}` | The Licensor's page for the work. It lists the ways to take out a sponsorship and nothing else. For every other work it is `https://cooljapan.tech/bsl/<work>/`, `<work>` being the name of its repository: the page must be live before the work's first release under the licence. | https://cooljapan.tech/cargo-formal/ |
 | `{{EARLIER_CHANGE}}` | Nothing for 0.x. From 1.x on, a paragraph on the four-year limit: "A version first published less than four years before {{CHANGE_DATE}} comes under the Apache License, Version 2.0 earlier, on the fourth anniversary of its first publication, as the `LICENSE` file says." | Nothing |
 | `{{OUTPUT_SECTION}}` | A section saying that what the work produces is yours, in step with paragraph (4), or nothing | "What the tool writes is yours" |
 | `{{RELEASE}}` | What a release consists of, and which packages carry `LICENSING.md`. A work with Python or npm packages names them too. | The crates on crates.io and nothing else; the ten tool crates carry this page |
