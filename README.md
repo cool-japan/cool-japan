@@ -94,7 +94,7 @@ Support the ongoing development of the Apache-2.0 ecosystem, or secure commercia
 | **Compression & Archive** | OxiArc | Pure Rust compression & archive stack — zero-C/FFI replacement for zlib / zstd / brotli / xz / libarchive (DEFLATE, Zstd, Brotli, LZMA, LZH, ZIP, TAR) — [Live Demo](https://play.cooljapan.dev/arc) | [→](https://github.com/cool-japan/oxiarc) |
 | **Formal Verification**           | OxiLean            | Memory-safe Interactive Theorem Prover (Lean 4 inspired)                    | [→](https://github.com/cool-japan/oxilean) |
 | **Formal Verification**           | OxiZ               | High-performance SMT solver (Z3 replacement) - [DEMO](https://play.cooljapan.dev/oxiz)   | [→](https://github.com/cool-japan/oxiz) |
-| **Formal Verification** | cargo-formal | Cargo subcommand for formal verification of Rust crates with `cargo test` ergonomics, powered by OxiZ & OxiLean (BSL-1.1 / Sponsor Only) | [→](https://cooljapan.tech/cargo-formal/) |
+| **Formal Verification** | cargo-formal | Cargo subcommand for formal verification of Rust crates with `cargo formal` ergonomics, powered by OxiZ & OxiLean (BSL-1.1 / Sponsor Only) | [→](https://cooljapan.tech/cargo-formal/) |
 | ...                               | 50+ more projects  | Full ecosystem overview at [cooljapan.tech](https://cooljapan.tech)                                   | — |
 
 **Full project list** → [Ecosystem Overview](https://cooljapan.tech)
