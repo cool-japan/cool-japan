@@ -1,4 +1,4 @@
-![Crates](https://img.shields.io/badge/crates-1100-orange)
+![Crates](https://img.shields.io/badge/crates-1116-orange)
 ![SLoC](https://img.shields.io/badge/SLoC-~40M-blue)
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
 [![Discussions](https://img.shields.io/badge/Discussions-%F0%9F%92%AC-blue?logo=github&style=flat)](https://github.com/cool-japan/cool-japan/discussions)
@@ -55,9 +55,9 @@ Support the ongoing development of the Apache-2.0 ecosystem, or secure commercia
 
 ---
 
-### 📊 Ecosystem at a Glance (September 2026)
+### 📊 Ecosystem at a Glance (November 2026)
 - **Total crates**: 1100+ (and growing daily)
-- **Total Rust SLoC**: ~40 million (Mostly the same as Linux Kernel) (OSS: 30M + Licensed: 10M SLoC)
+- **Total Rust SLoC**: ~40 million (Mostly the same as Linux Kernel) (OSS: 30M + Licensed / BSL: 10M SLoC)
 - **Total Rust Files**: 100,000+
 - **Passing tests**: 400,000+
 - **Projects**: 75+ production-grade libraries
