@@ -1,3 +1,20 @@
+### What I am actually doing here, and what it costs
+
+I live across the road from a primary school in Southeast Asia. Two hundred pupils. I hold the key to the reading room. I print the maths worksheets, I run the campus clean-up, and once a year there is a birthday lunch for the whole school. The school and the parents repeated that lunch on their own the following year, which is the only endorsement I have ever needed.
+
+I also wrote about 40 million lines of Pure Rust. That second part has never paid for the first.
+
+This is not a charity appeal. I am not raising money for a foundation. I am asking whether a few people will cover a monthly amount so that I can keep doing both things: the school in the morning, the software after that.
+
+One sponsor at US$1,000 a month, or twenty at US$50, both work. The money pays for this life and for the API bills that keep the work moving. Nothing else.
+
+If you have used a crate of mine and found it good, this is the moment it actually matters.
+
+— **Tetsuya Kitahata**  
+[GitHub Sponsors](https://github.com/sponsors/cool-japan) or the Stripe link.
+
+---
+
 ![Crates](https://img.shields.io/badge/crates-1116-orange)
 ![SLoC](https://img.shields.io/badge/SLoC-~40M-blue)
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
