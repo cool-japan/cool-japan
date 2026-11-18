@@ -74,7 +74,7 @@ Support the ongoing development of the Apache-2.0 ecosystem, or secure commercia
 | **Scientific Computing**          | SciRS2             | Complete NumPy/SciPy/scikit-learn replacement (~3M SLoC)                    | [→](https://github.com/cool-japan/scirs) |
 | **Scientific Computing**          | OxiPhysics         | Unified physics engine - Bullet/OpenFOAM/LAMMPS/CalculiX replacement (Sponsor Only)        | [→](https://cooljapan.tech/bsl/oxiphysics/) |
 | **LLM**                           | OxiBonsai          | Pure Rust 1-Bit (Sub-2-Bit) LLM Inference Engine + IMAGEN for PrismML Bonsai Models  | [→](https://github.com/cool-japan/oxibonsai) |
-| **LLM**                           | OxiLLaMa           | Pure Rust LLM inference engine — the sovereign alternative to llama.cpp     | [→](https://github.com/cool-japan/oxillama) |
+| **LLM**                           | OxiLLaMa           | Pure Rust LLM inference engine — the sovereign alternative to llama.cpp (Sponsor Only)     | [→](https://cooljapan.tech/bsl/oxillama/) |
 | **GPU (CUDA)**                    | OxiCUDA            | NVIDIA CUDA Toolkit software stack with type-safe, memory-safe Rust code    | [→](https://github.com/cool-japan/oxicuda) |
 | **Media & Computer Vision**       | OxiMedia           | FFmpeg + OpenCV replacement (108 crates)  (~3M SLoC)                      | [→](https://github.com/cool-japan/oximedia) |
 | **Geospatial**                    | OxiGeo            | Pure Rust geospatial data processing engine — cloud-native, full CRS & format support               | [→](https://github.com/cool-japan/oxigeo) |
